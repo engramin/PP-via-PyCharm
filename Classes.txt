@@ -1,0 +1,19 @@
+Python Basic Classes
+
+1-Hello World (17 Jun)
+2-Operators (17 Jun)
+3-Strings (17 Jun)
+4-Comments (17 Jun)
+
+5-Variables (20 Jun)
+6-Input Functions/Variables (20 Jun)
+7-Conditional Operators/Comparision & Logical Operators (20 Jun)
+
+8-Type Conversions (22 Jun)
+
+9-If,Else,Elif (24 Jun)
+
+10-Functions (29 Jun)
+
+11-Loops (1 Jul)
+12-Libraries (1 Jul)
